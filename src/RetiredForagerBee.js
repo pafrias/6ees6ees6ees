@@ -8,7 +8,7 @@ class RetiredForagerBee extends ForagerBee {
   }
 
   forage() {
-    return 'I am too old, let me play cards instread';
+    return 'I am too old, let me play cards instead';
   }
 
   gamble(treasure) {
